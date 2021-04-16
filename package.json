@@ -19,6 +19,7 @@
     "react-sticky-footer": "0.1.0-rc3",
     "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
+    "reselect": "^4.0.0",
     "simple-react-footer": "^1.0.2",
     "web-vitals": "^1.1.1"
   },
